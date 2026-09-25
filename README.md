@@ -1,6 +1,6 @@
 # Welcome to My Repository  
 
-Hi! I'm **Fasanya Ayomide** (GitHub: [FasanyaAyomide2](https://github.com/drsolutiontech)).  
+Hi! I'm **Fasanya Ayomide Joshua** (GitHub: [Dr. SOlution Tech](https://github.com/drsolutiontech)).  
 
 I'm a passionate web programmer and teacher specializing in **Laravel (PHP)**, frontend and backend development, and computer fundamentals. I also create engaging programming content on TikTok.  
 
